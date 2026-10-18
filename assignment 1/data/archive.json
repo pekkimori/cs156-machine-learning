@@ -1,0 +1,2858 @@
+[
+  {
+    "anime_id": 1,
+    "title": "Cowboy Bebop",
+    "xml_type": "TV",
+    "xml_episodes": 26,
+    "score": 10,
+    "status": "Watching"
+  },
+  {
+    "anime_id": 19,
+    "title": "Monster",
+    "xml_type": "TV",
+    "xml_episodes": 74,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 20,
+    "title": "Naruto",
+    "xml_type": "TV",
+    "xml_episodes": 220,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 21,
+    "title": "One Piece",
+    "xml_type": "TV",
+    "xml_episodes": 0,
+    "score": 10,
+    "status": "Watching"
+  },
+  {
+    "anime_id": 30,
+    "title": "Shinseiki Evangelion",
+    "xml_type": "TV",
+    "xml_episodes": 26,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 32,
+    "title": "Shinseiki Evangelion Movie: Air/Magokoro wo, Kimi ni",
+    "xml_type": "Movie",
+    "xml_episodes": 1,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 47,
+    "title": "Akira",
+    "xml_type": "Movie",
+    "xml_episodes": 1,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 164,
+    "title": "Mononoke Hime",
+    "xml_type": "Movie",
+    "xml_episodes": 1,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 199,
+    "title": "Sen to Chihiro no Kamikakushi",
+    "xml_type": "Movie",
+    "xml_episodes": 1,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 269,
+    "title": "Bleach",
+    "xml_type": "TV",
+    "xml_episodes": 366,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 339,
+    "title": "Serial Experiments Lain",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 0,
+    "status": "Plan to Watch"
+  },
+  {
+    "anime_id": 356,
+    "title": "Fate/stay night",
+    "xml_type": "TV",
+    "xml_episodes": 24,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 392,
+    "title": "Yuu☆Yuu☆Hakusho",
+    "xml_type": "TV",
+    "xml_episodes": 112,
+    "score": 10,
+    "status": "Watching"
+  },
+  {
+    "anime_id": 431,
+    "title": "Howl no Ugoku Shiro",
+    "xml_type": "Movie",
+    "xml_episodes": 1,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 457,
+    "title": "Mushishi",
+    "xml_type": "TV",
+    "xml_episodes": 26,
+    "score": 0,
+    "status": "Plan to Watch"
+  },
+  {
+    "anime_id": 523,
+    "title": "Tonari no Totoro",
+    "xml_type": "Movie",
+    "xml_episodes": 1,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 585,
+    "title": "Mimi wo Sumaseba",
+    "xml_type": "Movie",
+    "xml_episodes": 1,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 597,
+    "title": "Neko no Ongaeshi",
+    "xml_type": "Movie",
+    "xml_episodes": 1,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 777,
+    "title": "Hellsing Ultimate",
+    "xml_type": "OVA",
+    "xml_episodes": 10,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 889,
+    "title": "Black Lagoon",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 1195,
+    "title": "Zero no Tsukaima",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 1639,
+    "title": "Boku no Pico",
+    "xml_type": "OVA",
+    "xml_episodes": 1,
+    "score": 1,
+    "status": "Dropped"
+  },
+  {
+    "anime_id": 1840,
+    "title": "Zero no Tsukaima: Futatsuki no Kishi",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 1887,
+    "title": "Lucky☆Star",
+    "xml_type": "TV",
+    "xml_episodes": 24,
+    "score": 0,
+    "status": "Plan to Watch"
+  },
+  {
+    "anime_id": 2001,
+    "title": "Tengen Toppa Gurren Lagann",
+    "xml_type": "TV",
+    "xml_episodes": 27,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 2167,
+    "title": "Clannad",
+    "xml_type": "TV",
+    "xml_episodes": 23,
+    "score": 0,
+    "status": "Plan to Watch"
+  },
+  {
+    "anime_id": 2251,
+    "title": "Baccano!",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 0,
+    "status": "Plan to Watch"
+  },
+  {
+    "anime_id": 2476,
+    "title": "School Days",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 1,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 2605,
+    "title": "Sayonara Zetsubou Sensei",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 0,
+    "status": "Plan to Watch"
+  },
+  {
+    "anime_id": 2890,
+    "title": "Gake no Ue no Ponyo",
+    "xml_type": "Movie",
+    "xml_episodes": 1,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 3455,
+    "title": "To LOVE-Ru",
+    "xml_type": "TV",
+    "xml_episodes": 26,
+    "score": 0,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 3588,
+    "title": "Soul Eater",
+    "xml_type": "TV",
+    "xml_episodes": 51,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 3712,
+    "title": "Zero no Tsukaima: Princesses no Rondo",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 4081,
+    "title": "Natsume Yuujinchou",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 0,
+    "status": "Plan to Watch"
+  },
+  {
+    "anime_id": 4224,
+    "title": "Toradora!",
+    "xml_type": "TV",
+    "xml_episodes": 25,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 4654,
+    "title": "Toaru Majutsu no Index",
+    "xml_type": "TV",
+    "xml_episodes": 24,
+    "score": 0,
+    "status": "Plan to Watch"
+  },
+  {
+    "anime_id": 4898,
+    "title": "Kuroshitsuji",
+    "xml_type": "TV",
+    "xml_episodes": 24,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 5030,
+    "title": "Maria†Holic",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 6,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 5042,
+    "title": "Kiss x Sis",
+    "xml_type": "OVA",
+    "xml_episodes": 12,
+    "score": 1,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 5081,
+    "title": "Bakemonogatari",
+    "xml_type": "TV",
+    "xml_episodes": 15,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 5114,
+    "title": "Fullmetal Alchemist: Brotherhood",
+    "xml_type": "TV",
+    "xml_episodes": 64,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 5530,
+    "title": "Pandora Hearts",
+    "xml_type": "TV",
+    "xml_episodes": 25,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 5667,
+    "title": "To LOVE-Ru OVA",
+    "xml_type": "OVA",
+    "xml_episodes": 6,
+    "score": 0,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 5680,
+    "title": "K-On!",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 6213,
+    "title": "Toaru Kagaku no Railgun",
+    "xml_type": "TV",
+    "xml_episodes": 24,
+    "score": 7,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 6547,
+    "title": "Angel Beats!",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 6746,
+    "title": "Durarara!!",
+    "xml_type": "TV",
+    "xml_episodes": 24,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 6880,
+    "title": "Deadman Wonderland",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 6,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 6922,
+    "title": "Fate/stay night Movie: Unlimited Blade Works",
+    "xml_type": "Movie",
+    "xml_episodes": 1,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 7593,
+    "title": "Kiss x Sis (TV)",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 1,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 7785,
+    "title": "Yojouhan Shinwa Taikei",
+    "xml_type": "TV",
+    "xml_episodes": 11,
+    "score": 0,
+    "status": "Plan to Watch"
+  },
+  {
+    "anime_id": 7791,
+    "title": "K-On!!",
+    "xml_type": "TV",
+    "xml_episodes": 26,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 8074,
+    "title": "Highschool of the Dead",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 4,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 8795,
+    "title": "Panty & Stocking with Garterbelt",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 8861,
+    "title": "Yosuga no Sora",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 1,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 9181,
+    "title": "Motto To LOVE-Ru",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 7,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 9253,
+    "title": "Steins;Gate",
+    "xml_type": "TV",
+    "xml_episodes": 24,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 9260,
+    "title": "Kizumonogatari I: Tekketsu-hen",
+    "xml_type": "Movie",
+    "xml_episodes": 1,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 9756,
+    "title": "Mahou Shoujo Madoka☆Magica",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 9919,
+    "title": "Ao no Exorcist",
+    "xml_type": "TV",
+    "xml_episodes": 25,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 9989,
+    "title": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.",
+    "xml_type": "TV",
+    "xml_episodes": 11,
+    "score": 7,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 10012,
+    "title": "Carnival Phantasm",
+    "xml_type": "OVA",
+    "xml_episodes": 12,
+    "score": 7,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 10087,
+    "title": "Fate/Zero",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 10165,
+    "title": "Nichijou",
+    "xml_type": "TV",
+    "xml_episodes": 26,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 10396,
+    "title": "Ben-To",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 6,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 10408,
+    "title": "Hotarubi no Mori e",
+    "xml_type": "Movie",
+    "xml_episodes": 1,
+    "score": 0,
+    "status": "Plan to Watch"
+  },
+  {
+    "anime_id": 10495,
+    "title": "Yuru Yuri",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 4,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 10620,
+    "title": "Mirai Nikki (TV)",
+    "xml_type": "TV",
+    "xml_episodes": 26,
+    "score": 7,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 10793,
+    "title": "Guilty Crown",
+    "xml_type": "TV",
+    "xml_episodes": 22,
+    "score": 0,
+    "status": "Plan to Watch"
+  },
+  {
+    "anime_id": 10863,
+    "title": "Steins;Gate: Oukoubakko no Poriomania",
+    "xml_type": "Special",
+    "xml_episodes": 1,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 11061,
+    "title": "Hunter x Hunter (2011)",
+    "xml_type": "TV",
+    "xml_episodes": 148,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 11111,
+    "title": "Another",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 7,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 11319,
+    "title": "Zero no Tsukaima F",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 11577,
+    "title": "Steins;Gate Movie: Fuka Ryouiki no Déjà vu",
+    "xml_type": "Movie",
+    "xml_episodes": 1,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 11597,
+    "title": "Nisemonogatari",
+    "xml_type": "TV",
+    "xml_episodes": 11,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 11617,
+    "title": "High School DxD",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 4,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 11741,
+    "title": "Fate/Zero 2nd Season",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 11757,
+    "title": "Sword Art Online",
+    "xml_type": "TV",
+    "xml_episodes": 25,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 12291,
+    "title": "Acchi Kocchi",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 7,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 12679,
+    "title": "Joshiraku",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 0,
+    "status": "Plan to Watch"
+  },
+  {
+    "anime_id": 13601,
+    "title": "Psycho-Pass",
+    "xml_type": "TV",
+    "xml_episodes": 22,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 13663,
+    "title": "To LOVE-Ru Darkness",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 0,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 13759,
+    "title": "Sakura-sou no Pet na Kanojo",
+    "xml_type": "TV",
+    "xml_episodes": 24,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 14513,
+    "title": "Magi: The Labyrinth of Magic",
+    "xml_type": "TV",
+    "xml_episodes": 25,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 14713,
+    "title": "Kamisama Hajimemashita",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 6,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 14719,
+    "title": "JoJo no Kimyou na Bouken (TV)",
+    "xml_type": "TV",
+    "xml_episodes": 26,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 14741,
+    "title": "Chuunibyou demo Koi ga Shitai!",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 14813,
+    "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru.",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 15037,
+    "title": "Corpse Party: Tortured Souls - Bougyakusareta Tamashii no Jukyou",
+    "xml_type": "OVA",
+    "xml_episodes": 4,
+    "score": 6,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 15583,
+    "title": "Date A Live",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 2,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 15689,
+    "title": "Nekomonogatari: Kuro",
+    "xml_type": "TV Special",
+    "xml_episodes": 4,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 16498,
+    "title": "Shingeki no Kyojin",
+    "xml_type": "TV",
+    "xml_episodes": 25,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 16592,
+    "title": "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 16742,
+    "title": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 7,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 17074,
+    "title": "Monogatari Series: Second Season",
+    "xml_type": "TV",
+    "xml_episodes": 26,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 18115,
+    "title": "Magi: The Kingdom of Magic",
+    "xml_type": "TV",
+    "xml_episodes": 25,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 18153,
+    "title": "Kyoukai no Kanata",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 0,
+    "status": "Plan to Watch"
+  },
+  {
+    "anime_id": 18671,
+    "title": "Chuunibyou demo Koi ga Shitai! Ren",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 18679,
+    "title": "Kill la Kill",
+    "xml_type": "TV",
+    "xml_episodes": 24,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 18897,
+    "title": "Nisekoi",
+    "xml_type": "TV",
+    "xml_episodes": 20,
+    "score": 0,
+    "status": "Plan to Watch"
+  },
+  {
+    "anime_id": 19163,
+    "title": "Date A Live II",
+    "xml_type": "TV",
+    "xml_episodes": 10,
+    "score": 2,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 19815,
+    "title": "No Game No Life",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 20031,
+    "title": "D-Frag!",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 20047,
+    "title": "Sakura Trick",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 5,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 20507,
+    "title": "Noragami",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 20583,
+    "title": "Haikyuu!!",
+    "xml_type": "TV",
+    "xml_episodes": 25,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 20787,
+    "title": "Black Bullet",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 7,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 20899,
+    "title": "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders",
+    "xml_type": "TV",
+    "xml_episodes": 24,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 21507,
+    "title": "Soul Eater NOT!",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 1,
+    "status": "Dropped"
+  },
+  {
+    "anime_id": 21603,
+    "title": "Mekakucity Actors",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 0,
+    "status": "Plan to Watch"
+  },
+  {
+    "anime_id": 21855,
+    "title": "Hanamonogatari",
+    "xml_type": "TV Special",
+    "xml_episodes": 5,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 21881,
+    "title": "Sword Art Online II",
+    "xml_type": "TV",
+    "xml_episodes": 24,
+    "score": 7,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 22199,
+    "title": "Akame ga Kill!",
+    "xml_type": "TV",
+    "xml_episodes": 24,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 22297,
+    "title": "Fate/stay night: Unlimited Blade Works",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 22319,
+    "title": "Tokyo Ghoul",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 22535,
+    "title": "Kiseijuu: Sei no Kakuritsu",
+    "xml_type": "TV",
+    "xml_episodes": 24,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 22687,
+    "title": "Terra Formars",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 1,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 23199,
+    "title": "Durarara!!x2 Shou",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 0,
+    "status": "Plan to Watch"
+  },
+  {
+    "anime_id": 23233,
+    "title": "Shinmai Maou no Testament",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 6,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 23283,
+    "title": "Zankyou no Terror",
+    "xml_type": "TV",
+    "xml_episodes": 11,
+    "score": 0,
+    "status": "Plan to Watch"
+  },
+  {
+    "anime_id": 23755,
+    "title": "Nanatsu no Taizai",
+    "xml_type": "TV",
+    "xml_episodes": 24,
+    "score": 7,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 23847,
+    "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 0,
+    "status": "Plan to Watch"
+  },
+  {
+    "anime_id": 24439,
+    "title": "Kekkai Sensen",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 24655,
+    "title": "Date A Live Movie: Mayuri Judgment",
+    "xml_type": "Movie",
+    "xml_episodes": 1,
+    "score": 2,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 24833,
+    "title": "Ansatsu Kyoushitsu",
+    "xml_type": "TV",
+    "xml_episodes": 22,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 25157,
+    "title": "Trinity Seven",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 0,
+    "status": "Dropped"
+  },
+  {
+    "anime_id": 25537,
+    "title": "Fate/stay night Movie: Heaven's Feel - I. Presage Flower",
+    "xml_type": "Movie",
+    "xml_episodes": 1,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 25777,
+    "title": "Shingeki no Kyojin Season 2",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 26055,
+    "title": "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders - Egypt-hen",
+    "xml_type": "TV",
+    "xml_episodes": 24,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 27775,
+    "title": "Plastic Memories",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 0,
+    "status": "Plan to Watch"
+  },
+  {
+    "anime_id": 28025,
+    "title": "Tsukimonogatari",
+    "xml_type": "TV Special",
+    "xml_episodes": 4,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 28121,
+    "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 7,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 28171,
+    "title": "Shokugeki no Souma",
+    "xml_type": "TV",
+    "xml_episodes": 24,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 28223,
+    "title": "Death Parade",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 28623,
+    "title": "Koutetsujou no Kabaneri",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 6,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 28701,
+    "title": "Fate/stay night: Unlimited Blade Works 2nd Season",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 28825,
+    "title": "Himouto! Umaru-chan",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 28851,
+    "title": "Koe no Katachi",
+    "xml_type": "Movie",
+    "xml_episodes": 1,
+    "score": 7,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 28979,
+    "title": "To LOVE-Ru Darkness 2nd",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 0,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 28999,
+    "title": "Charlotte",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 0,
+    "status": "Plan to Watch"
+  },
+  {
+    "anime_id": 29803,
+    "title": "Overlord",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 30240,
+    "title": "Prison School",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 5,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 30276,
+    "title": "One Punch Man",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 30296,
+    "title": "Rakudai Kishi no Cavalry",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 30307,
+    "title": "Monster Musume no Iru Nichijou",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 7,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 30484,
+    "title": "Steins;Gate 0",
+    "xml_type": "TV",
+    "xml_episodes": 23,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 30503,
+    "title": "Noragami Aragoto",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 30654,
+    "title": "Ansatsu Kyoushitsu 2nd Season",
+    "xml_type": "TV",
+    "xml_episodes": 25,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 30831,
+    "title": "Kono Subarashii Sekai ni Shukufuku wo!",
+    "xml_type": "TV",
+    "xml_episodes": 10,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 31043,
+    "title": "Boku dake ga Inai Machi",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 31181,
+    "title": "Owarimonogatari",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 31240,
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu",
+    "xml_type": "TV",
+    "xml_episodes": 25,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 31478,
+    "title": "Bungou Stray Dogs",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 31741,
+    "title": "Magi: Sinbad no Bouken (TV)",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 31757,
+    "title": "Kizumonogatari II: Nekketsu-hen",
+    "xml_type": "Movie",
+    "xml_episodes": 1,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 31758,
+    "title": "Kizumonogatari III: Reiketsu-hen",
+    "xml_type": "Movie",
+    "xml_episodes": 1,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 31933,
+    "title": "JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai",
+    "xml_type": "TV",
+    "xml_episodes": 39,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 31964,
+    "title": "Boku no Hero Academia",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 32105,
+    "title": "Sousei no Onmyouji",
+    "xml_type": "TV",
+    "xml_episodes": 50,
+    "score": 6,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 32182,
+    "title": "Mob Psycho 100",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 32268,
+    "title": "Koyomimonogatari",
+    "xml_type": "ONA",
+    "xml_episodes": 12,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 32281,
+    "title": "Kimi no Na wa.",
+    "xml_type": "Movie",
+    "xml_episodes": 1,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 32282,
+    "title": "Shokugeki no Souma: Ni no Sara",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 32407,
+    "title": "Clockwork Planet",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 0,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 32615,
+    "title": "Youjo Senki",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 0,
+    "status": "Plan to Watch"
+  },
+  {
+    "anime_id": 32867,
+    "title": "Bungou Stray Dogs 2nd Season",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 32901,
+    "title": "Eromanga-sensei",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 2,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 32937,
+    "title": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+    "xml_type": "TV",
+    "xml_episodes": 10,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 33049,
+    "title": "Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly",
+    "xml_type": "Movie",
+    "xml_episodes": 1,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 33050,
+    "title": "Fate/stay night Movie: Heaven's Feel - III. Spring Song",
+    "xml_type": "Movie",
+    "xml_episodes": 1,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 33206,
+    "title": "Kobayashi-san Chi no Maid Dragon",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 33352,
+    "title": "Violet Evergarden",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 33486,
+    "title": "Boku no Hero Academia 2nd Season",
+    "xml_type": "TV",
+    "xml_episodes": 25,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 33489,
+    "title": "Little Witch Academia (TV)",
+    "xml_type": "TV",
+    "xml_episodes": 25,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 33506,
+    "title": "Ao no Exorcist: Kyoto Fujouou-hen",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 33674,
+    "title": "No Game No Life: Zero",
+    "xml_type": "Movie",
+    "xml_episodes": 1,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 33731,
+    "title": "Gabriel DropOut",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 0,
+    "status": "Plan to Watch"
+  },
+  {
+    "anime_id": 34134,
+    "title": "One Punch Man 2nd Season",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 6,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 34240,
+    "title": "Shelter (Music)",
+    "xml_type": "Music",
+    "xml_episodes": 1,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 34382,
+    "title": "Citrus",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 3,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 34443,
+    "title": "Baki",
+    "xml_type": "ONA",
+    "xml_episodes": 26,
+    "score": 6,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 34451,
+    "title": "Kekkai Sensen & Beyond",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 34577,
+    "title": "Nanatsu no Taizai: Imashime no Fukkatsu",
+    "xml_type": "TV",
+    "xml_episodes": 24,
+    "score": 7,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 34599,
+    "title": "Made in Abyss",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 34618,
+    "title": "Blend S",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 34662,
+    "title": "Fate/Apocrypha",
+    "xml_type": "TV",
+    "xml_episodes": 25,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 34798,
+    "title": "Yuru Camp△",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 0,
+    "status": "Plan to Watch"
+  },
+  {
+    "anime_id": 34881,
+    "title": "Aho Girl",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 5,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 34933,
+    "title": "Kakegurui",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 35062,
+    "title": "Mahoutsukai no Yome",
+    "xml_type": "TV",
+    "xml_episodes": 24,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 35073,
+    "title": "Overlord II",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 35120,
+    "title": "Devilman: Crybaby",
+    "xml_type": "ONA",
+    "xml_episodes": 10,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 35247,
+    "title": "Owarimonogatari 2nd Season",
+    "xml_type": "TV Special",
+    "xml_episodes": 7,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 35376,
+    "title": "Himouto! Umaru-chan R",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 35507,
+    "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 35760,
+    "title": "Shingeki no Kyojin Season 3",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 35788,
+    "title": "Shokugeki no Souma: San no Sara",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 35790,
+    "title": "Tate no Yuusha no Nariagari",
+    "xml_type": "TV",
+    "xml_episodes": 25,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 35838,
+    "title": "Shoujo Shuumatsu Ryokou",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 35849,
+    "title": "Darling in the FranXX",
+    "xml_type": "TV",
+    "xml_episodes": 24,
+    "score": 7,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 36039,
+    "title": "A.I.C.O. Incarnation",
+    "xml_type": "ONA",
+    "xml_episodes": 12,
+    "score": 6,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 36286,
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Memory Snow",
+    "xml_type": "Movie",
+    "xml_episodes": 1,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 36456,
+    "title": "Boku no Hero Academia 3rd Season",
+    "xml_type": "TV",
+    "xml_episodes": 25,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 36474,
+    "title": "Sword Art Online: Alicization",
+    "xml_type": "TV",
+    "xml_episodes": 24,
+    "score": 7,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 36633,
+    "title": "Date A Live III",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 2,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 36862,
+    "title": "Made in Abyss Movie 3: Fukaki Tamashii no Reimei",
+    "xml_type": "Movie",
+    "xml_episodes": 1,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 36896,
+    "title": "Boku no Hero Academia the Movie 1: Futari no Hero",
+    "xml_type": "Movie",
+    "xml_episodes": 1,
+    "score": 6,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 36904,
+    "title": "Aggressive Retsuko (ONA)",
+    "xml_type": "ONA",
+    "xml_episodes": 10,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 36949,
+    "title": "Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 36999,
+    "title": "Zoku Owarimonogatari",
+    "xml_type": "TV",
+    "xml_episodes": 6,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 37141,
+    "title": "Hataraku Saibou",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 37347,
+    "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 7,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 37349,
+    "title": "Goblin Slayer",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 7,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 37430,
+    "title": "Tensei shitara Slime Datta Ken",
+    "xml_type": "TV",
+    "xml_episodes": 24,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 37450,
+    "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 37510,
+    "title": "Mob Psycho 100 II",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 37517,
+    "title": "Happy Sugar Life",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 4,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 37520,
+    "title": "Dororo",
+    "xml_type": "TV",
+    "xml_episodes": 24,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 37521,
+    "title": "Vinland Saga",
+    "xml_type": "TV",
+    "xml_episodes": 24,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 37675,
+    "title": "Overlord III",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 37779,
+    "title": "Yakusoku no Neverland",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 37786,
+    "title": "Yagate Kimi ni Naru",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 37976,
+    "title": "Zombieland Saga",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 3,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 37985,
+    "title": "Aggressive Retsuko (ONA) 2nd Season",
+    "xml_type": "ONA",
+    "xml_episodes": 10,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 37987,
+    "title": "Violet Evergarden Movie",
+    "xml_type": "Movie",
+    "xml_episodes": 1,
+    "score": 0,
+    "status": "Plan to Watch"
+  },
+  {
+    "anime_id": 37991,
+    "title": "JoJo no Kimyou na Bouken Part 5: Ougon no Kaze",
+    "xml_type": "TV",
+    "xml_episodes": 39,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 37999,
+    "title": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 38000,
+    "title": "Kimetsu no Yaiba",
+    "xml_type": "TV",
+    "xml_episodes": 26,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 38003,
+    "title": "Bungou Stray Dogs 3rd Season",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 38040,
+    "title": "Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu",
+    "xml_type": "Movie",
+    "xml_episodes": 1,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 38101,
+    "title": "5-toubun no Hanayome",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 0,
+    "status": "Plan to Watch"
+  },
+  {
+    "anime_id": 38329,
+    "title": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+    "xml_type": "Movie",
+    "xml_episodes": 1,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 38408,
+    "title": "Boku no Hero Academia 4th Season",
+    "xml_type": "TV",
+    "xml_episodes": 25,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 38414,
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna",
+    "xml_type": "Movie",
+    "xml_episodes": 1,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 38472,
+    "title": "Isekai Quartet",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 6,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 38524,
+    "title": "Shingeki no Kyojin Season 3 Part 2",
+    "xml_type": "TV",
+    "xml_episodes": 10,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 38668,
+    "title": "Dorohedoro",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 38671,
+    "title": "Enen no Shouboutai",
+    "xml_type": "TV",
+    "xml_episodes": 24,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 38691,
+    "title": "Dr. Stone",
+    "xml_type": "TV",
+    "xml_episodes": 24,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 38759,
+    "title": "Sewayaki Kitsune no Senko-san",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 6,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 39026,
+    "title": "Dumbbell Nan Kilo Moteru?",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 5,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 39195,
+    "title": "Beastars",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 6,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 39247,
+    "title": "Kobayashi-san Chi no Maid Dragon S",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 39534,
+    "title": "Jibaku Shounen Hanako-kun",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 39535,
+    "title": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+    "xml_type": "TV",
+    "xml_episodes": 11,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 39551,
+    "title": "Tensei shitara Slime Datta Ken 2nd Season",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 39565,
+    "title": "Boku no Hero Academia the Movie 2: Heroes:Rising",
+    "xml_type": "Movie",
+    "xml_episodes": 1,
+    "score": 6,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 39575,
+    "title": "Somali to Mori no Kamisama",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 7,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 39587,
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 39597,
+    "title": "Sword Art Online: Alicization - War of Underworld",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 2,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 39701,
+    "title": "Nanatsu no Taizai: Kamigami no Gekirin",
+    "xml_type": "TV",
+    "xml_episodes": 24,
+    "score": 1,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 39940,
+    "title": "Shokugeki no Souma: Shin no Sara",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 39988,
+    "title": "Isekai Quartet 2",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 6,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 40010,
+    "title": "Ishuzoku Reviewers",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 40028,
+    "title": "Shingeki no Kyojin: The Final Season",
+    "xml_type": "TV",
+    "xml_episodes": 16,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 40052,
+    "title": "Great Pretender",
+    "xml_type": "TV",
+    "xml_episodes": 23,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 40060,
+    "title": "BNA",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 40215,
+    "title": "Aggressive Retsuko (ONA) 3rd Season",
+    "xml_type": "ONA",
+    "xml_episodes": 10,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 40221,
+    "title": "Kami no Tou",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 40454,
+    "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 7,
+    "status": "Dropped"
+  },
+  {
+    "anime_id": 40456,
+    "title": "Kimetsu no Yaiba Movie: Mugen Ressha-hen",
+    "xml_type": "Movie",
+    "xml_episodes": 1,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 40540,
+    "title": "Sword Art Online: Alicization - War of Underworld 2nd Season",
+    "xml_type": "TV",
+    "xml_episodes": 11,
+    "score": 2,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 40586,
+    "title": "Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 0,
+    "status": "Dropped"
+  },
+  {
+    "anime_id": 40591,
+    "title": "Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 40708,
+    "title": "Monster Musume no Oishasan",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 3,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 40716,
+    "title": "Kakushigoto",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 0,
+    "status": "Plan to Watch"
+  },
+  {
+    "anime_id": 40748,
+    "title": "Jujutsu Kaisen",
+    "xml_type": "TV",
+    "xml_episodes": 24,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 40750,
+    "title": "Kaifuku Jutsushi no Yarinaoshi",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 1,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 40839,
+    "title": "Kanojo, Okarishimasu",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 4,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 40902,
+    "title": "Shokugeki no Souma: Gou no Sara",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 6,
+    "status": "Dropped"
+  },
+  {
+    "anime_id": 40908,
+    "title": "Kemono Jihen",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 40956,
+    "title": "Enen no Shouboutai: Ni no Shou",
+    "xml_type": "TV",
+    "xml_episodes": 24,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 41025,
+    "title": "Fumetsu no Anata e",
+    "xml_type": "TV",
+    "xml_episodes": 20,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 41353,
+    "title": "The God of High School",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 6,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 41389,
+    "title": "Tonikaku Kawaii",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 7,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 41457,
+    "title": "86",
+    "xml_type": "TV",
+    "xml_episodes": 11,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 41467,
+    "title": "Bleach: Sennen Kessen-hen",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 41487,
+    "title": "Tensei shitara Slime Datta Ken 2nd Season Part 2",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 41587,
+    "title": "Boku no Hero Academia 5th Season",
+    "xml_type": "TV",
+    "xml_episodes": 25,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 42203,
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 42249,
+    "title": "Tokyo Revengers",
+    "xml_type": "TV",
+    "xml_episodes": 24,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 42310,
+    "title": "Cyberpunk: Edgerunners",
+    "xml_type": "ONA",
+    "xml_episodes": 10,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 42625,
+    "title": "Heion Sedai no Idaten-tachi",
+    "xml_type": "TV",
+    "xml_episodes": 11,
+    "score": 6,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 43439,
+    "title": "Shadows House",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 0,
+    "status": "Plan to Watch"
+  },
+  {
+    "anime_id": 43608,
+    "title": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 43969,
+    "title": "Kanojo mo Kanojo",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 0,
+    "status": "Dropped"
+  },
+  {
+    "anime_id": 44200,
+    "title": "Boku no Hero Academia the Movie 3: World Heroes' Mission",
+    "xml_type": "Movie",
+    "xml_episodes": 1,
+    "score": 6,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 44511,
+    "title": "Chainsaw Man",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 46095,
+    "title": "Vivy: Fluorite Eye's Song",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 0,
+    "status": "Plan to Watch"
+  },
+  {
+    "anime_id": 46569,
+    "title": "Jigokuraku",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 47160,
+    "title": "Goblin Slayer II",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 0,
+    "status": "Plan to Watch"
+  },
+  {
+    "anime_id": 47194,
+    "title": "Summertime Render",
+    "xml_type": "TV",
+    "xml_episodes": 25,
+    "score": 0,
+    "status": "Plan to Watch"
+  },
+  {
+    "anime_id": 47917,
+    "title": "Bocchi the Rock!",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 48556,
+    "title": "Takt Op. Destiny",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 0,
+    "status": "Dropped"
+  },
+  {
+    "anime_id": 48561,
+    "title": "Jujutsu Kaisen 0 Movie",
+    "xml_type": "Movie",
+    "xml_episodes": 1,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 48580,
+    "title": "Vanitas no Karte",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 48583,
+    "title": "Shingeki no Kyojin: The Final Season Part 2",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 48661,
+    "title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean",
+    "xml_type": "ONA",
+    "xml_episodes": 12,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 48753,
+    "title": "Jahy-sama wa Kujikenai!",
+    "xml_type": "TV",
+    "xml_episodes": 20,
+    "score": 0,
+    "status": "Dropped"
+  },
+  {
+    "anime_id": 48849,
+    "title": "Sonny Boy",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 0,
+    "status": "Plan to Watch"
+  },
+  {
+    "anime_id": 48895,
+    "title": "Overlord IV",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 0,
+    "status": "Plan to Watch"
+  },
+  {
+    "anime_id": 49114,
+    "title": "Vanitas no Karte Part 2",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 0,
+    "status": "Plan to Watch"
+  },
+  {
+    "anime_id": 49387,
+    "title": "Vinland Saga Season 2",
+    "xml_type": "TV",
+    "xml_episodes": 24,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 49458,
+    "title": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+    "xml_type": "TV",
+    "xml_episodes": 11,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 49596,
+    "title": "Blue Lock",
+    "xml_type": "TV",
+    "xml_episodes": 24,
+    "score": 9,
+    "status": "On-Hold"
+  },
+  {
+    "anime_id": 49918,
+    "title": "Boku no Hero Academia 6th Season",
+    "xml_type": "TV",
+    "xml_episodes": 25,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 49926,
+    "title": "Kimetsu no Yaiba: Mugen Ressha-hen",
+    "xml_type": "TV",
+    "xml_episodes": 7,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 50172,
+    "title": "Mob Psycho 100 III",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 50205,
+    "title": "Arknights: Prelude to Dawn",
+    "xml_type": "TV",
+    "xml_episodes": 8,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 50250,
+    "title": "Chiikawa",
+    "xml_type": "TV",
+    "xml_episodes": 0,
+    "score": 9,
+    "status": "Watching"
+  },
+  {
+    "anime_id": 50265,
+    "title": "Spy x Family",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 50330,
+    "title": "Bungou Stray Dogs 4th Season",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 50346,
+    "title": "Yofukashi no Uta",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 50410,
+    "title": "One Piece Film: Red",
+    "xml_type": "Movie",
+    "xml_episodes": 1,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 50416,
+    "title": "Skip to Loafer",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 0,
+    "status": "Plan to Watch"
+  },
+  {
+    "anime_id": 50594,
+    "title": "Suzume no Tojimari",
+    "xml_type": "Movie",
+    "xml_episodes": 1,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 50709,
+    "title": "Lycoris Recoil",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 0,
+    "status": "Plan to Watch"
+  },
+  {
+    "anime_id": 50710,
+    "title": "Urusei Yatsura (2022)",
+    "xml_type": "TV",
+    "xml_episodes": 23,
+    "score": 0,
+    "status": "Dropped"
+  },
+  {
+    "anime_id": 51009,
+    "title": "Jujutsu Kaisen 2nd Season",
+    "xml_type": "TV",
+    "xml_episodes": 23,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 51096,
+    "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 51105,
+    "title": "NieR:Automata Ver1.1a",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 51180,
+    "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 0,
+    "status": "Plan to Watch"
+  },
+  {
+    "anime_id": 51367,
+    "title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2",
+    "xml_type": "ONA",
+    "xml_episodes": 12,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 51535,
+    "title": "Shingeki no Kyojin: The Final Season - Kanketsu-hen",
+    "xml_type": "TV Special",
+    "xml_episodes": 2,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 51553,
+    "title": "Tongari Boushi no Atelier",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 51958,
+    "title": "Kono Subarashii Sekai ni Bakuen wo!",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 0,
+    "status": "Plan to Watch"
+  },
+  {
+    "anime_id": 52034,
+    "title": "[Oshi no Ko]",
+    "xml_type": "TV",
+    "xml_episodes": 11,
+    "score": 0,
+    "status": "Dropped"
+  },
+  {
+    "anime_id": 52198,
+    "title": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+    "xml_type": "Movie",
+    "xml_episodes": 1,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 52299,
+    "title": "Ore dake Level Up na Ken",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 52578,
+    "title": "Boku no Kokoro no Yabai Yatsu",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 52701,
+    "title": "Dungeon Meshi",
+    "xml_type": "TV",
+    "xml_episodes": 24,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 52955,
+    "title": "Mahoutsukai no Yome Season 2",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 0,
+    "status": "Plan to Watch"
+  },
+  {
+    "anime_id": 52991,
+    "title": "Sousou no Frieren",
+    "xml_type": "TV",
+    "xml_episodes": 28,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 53273,
+    "title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 3",
+    "xml_type": "ONA",
+    "xml_episodes": 14,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 53998,
+    "title": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 54492,
+    "title": "Kusuriya no Hitorigoto",
+    "xml_type": "TV",
+    "xml_episodes": 24,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 54857,
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "xml_type": "TV",
+    "xml_episodes": 16,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 54898,
+    "title": "Bungou Stray Dogs 5th Season",
+    "xml_type": "TV",
+    "xml_episodes": 11,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 55690,
+    "title": "Boku no Kokoro no Yabai Yatsu 2nd Season",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 56784,
+    "title": "Bleach: Sennen Kessen-hen - Soukoku-tan",
+    "xml_type": "TV",
+    "xml_episodes": 14,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 57334,
+    "title": "Dandadan",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 57555,
+    "title": "Chainsaw Man Movie: Reze-hen",
+    "xml_type": "Movie",
+    "xml_episodes": 1,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 57658,
+    "title": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 57864,
+    "title": "Monogatari Series: Off & Monster Season",
+    "xml_type": "ONA",
+    "xml_episodes": 14,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 58125,
+    "title": "Look Back",
+    "xml_type": "Movie",
+    "xml_episodes": 1,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 58426,
+    "title": "Shikanoko Nokonoko Koshitantan",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 9,
+    "status": "Watching"
+  },
+  {
+    "anime_id": 58514,
+    "title": "Kusuriya no Hitorigoto 2nd Season",
+    "xml_type": "TV",
+    "xml_episodes": 24,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 58567,
+    "title": "Ore dake Level Up na Ken Season 2: Arise from the Shadow",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 8,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 59062,
+    "title": "Gachiakuta",
+    "xml_type": "TV",
+    "xml_episodes": 24,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 59845,
+    "title": "Kaoru Hana wa Rin to Saku",
+    "xml_type": "TV",
+    "xml_episodes": 13,
+    "score": 0,
+    "status": "Plan to Watch"
+  },
+  {
+    "anime_id": 59978,
+    "title": "Sousou no Frieren 2nd Season",
+    "xml_type": "TV",
+    "xml_episodes": 10,
+    "score": 9,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 60022,
+    "title": "One Piece Fan Letter",
+    "xml_type": "TV Special",
+    "xml_episodes": 1,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 60489,
+    "title": "Takopii no Genzai",
+    "xml_type": "ONA",
+    "xml_episodes": 6,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 60543,
+    "title": "Dandadan 2nd Season",
+    "xml_type": "TV",
+    "xml_episodes": 12,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 60636,
+    "title": "Bleach: Sennen Kessen-hen - Kashin-tan",
+    "xml_type": "TV",
+    "xml_episodes": 10,
+    "score": 10,
+    "status": "Watching"
+  },
+  {
+    "anime_id": 61316,
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+    "xml_type": "TV",
+    "xml_episodes": 19,
+    "score": 10,
+    "status": "Completed"
+  },
+  {
+    "anime_id": 61469,
+    "title": "Steel Ball Run: JoJo no Kimyou na Bouken",
+    "xml_type": "ONA",
+    "xml_episodes": 0,
+    "score": 10,
+    "status": "Watching"
+  }
+]

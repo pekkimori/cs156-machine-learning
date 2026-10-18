@@ -1,0 +1,21 @@
+band,model,n,MAE
+10: favorites,Mean baseline,22,1.8589211618257266
+10: favorites,Median baseline,22,1.0
+10: favorites,Ridge regression,22,1.794525696241179
+10: favorites,Decision tree,22,1.7284446791755637
+10: favorites,Neural network,22,1.8394388691571728
+9: liked a lot,Mean baseline,5,0.8589211618257266
+9: liked a lot,Median baseline,5,0.0
+9: liked a lot,Ridge regression,5,0.8801551200233009
+9: liked a lot,Decision tree,5,1.5978850574712642
+9: liked a lot,Neural network,5,1.011280001890849
+7-8: less impact,Mean baseline,19,0.2463419960690102
+7-8: less impact,Median baseline,19,1.105263157894737
+7-8: less impact,Ridge regression,19,0.703777930851923
+7-8: less impact,Decision tree,19,0.8941722121395449
+7-8: less impact,Neural network,19,0.9861435363377772
+1-6: lower ratings,Mean baseline,7,3.712507409602845
+1-6: lower ratings,Median baseline,7,4.571428571428571
+1-6: lower ratings,Ridge regression,7,2.769851142002279
+1-6: lower ratings,Decision tree,7,2.4662549677542183
+1-6: lower ratings,Neural network,7,2.223048849541587

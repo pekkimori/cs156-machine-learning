@@ -1,0 +1,1 @@
+"""Personal anime preference pipeline."""

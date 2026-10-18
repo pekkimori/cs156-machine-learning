@@ -1,0 +1,295 @@
+anime_id,title,score,relation_group,split,cv_fold
+19,Monster,10,related-19,development,1
+20,Naruto,8,related-20,development,0
+30,Shinseiki Evangelion,10,related-20,development,0
+32,"Shinseiki Evangelion Movie: Air/Magokoro wo, Kimi ni",10,related-20,development,0
+47,Akira,8,related-47,development,1
+164,Mononoke Hime,8,related-164,development,4
+199,Sen to Chihiro no Kamikakushi,8,related-145,test,-1
+269,Bleach,10,related-269,development,1
+356,Fate/stay night,10,related-20,development,0
+431,Howl no Ugoku Shiro,10,related-145,test,-1
+523,Tonari no Totoro,8,related-145,test,-1
+585,Mimi wo Sumaseba,8,related-145,test,-1
+597,Neko no Ongaeshi,8,related-145,test,-1
+777,Hellsing Ultimate,9,related-270,development,4
+889,Black Lagoon,8,related-889,development,0
+1195,Zero no Tsukaima,9,related-1195,development,2
+1840,Zero no Tsukaima: Futatsuki no Kishi,9,related-1195,development,2
+2001,Tengen Toppa Gurren Lagann,9,related-2001,development,2
+2476,School Days,1,related-211,development,1
+2890,Gake no Ue no Ponyo,8,related-2890,development,2
+3588,Soul Eater,10,related-20,development,0
+3712,Zero no Tsukaima: Princesses no Rondo,9,related-1195,development,2
+4224,Toradora!,8,related-20,development,0
+4898,Kuroshitsuji,9,related-4898,development,0
+5030,Maria†Holic,6,related-5030,development,3
+5042,Kiss x Sis,1,related-5042,test,-1
+5081,Bakemonogatari,10,related-20,development,0
+5114,Fullmetal Alchemist: Brotherhood,10,related-121,test,-1
+5530,Pandora Hearts,10,related-5530,development,0
+5680,K-On!,8,related-5680,test,-1
+6213,Toaru Kagaku no Railgun,7,related-20,development,0
+6547,Angel Beats!,8,related-20,development,0
+6746,Durarara!!,10,related-2251,development,2
+6880,Deadman Wonderland,6,related-6880,development,3
+6922,Fate/stay night Movie: Unlimited Blade Works,10,related-20,development,0
+7593,Kiss x Sis (TV),1,related-5042,test,-1
+7791,K-On!!,8,related-5680,test,-1
+8074,Highschool of the Dead,4,related-8074,development,3
+8795,Panty & Stocking with Garterbelt,9,related-8795,development,1
+8861,Yosuga no Sora,1,related-8861,development,3
+9181,Motto To LOVE-Ru,7,related-68,test,-1
+9253,Steins;Gate,10,related-20,development,0
+9260,Kizumonogatari I: Tekketsu-hen,10,related-20,development,0
+9756,Mahou Shoujo Madoka☆Magica,10,related-20,development,0
+9919,Ao no Exorcist,9,related-9627,development,1
+9989,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,7,related-9989,development,4
+10012,Carnival Phantasm,7,related-20,development,0
+10087,Fate/Zero,10,related-20,development,0
+10165,Nichijou,10,related-8857,test,-1
+10396,Ben-To,6,related-10396,development,0
+10495,Yuru Yuri,4,related-10495,development,4
+10620,Mirai Nikki (TV),7,related-8460,development,0
+10863,Steins;Gate: Oukoubakko no Poriomania,9,related-20,development,0
+11061,Hunter x Hunter (2011),10,related-136,development,2
+11111,Another,7,related-20,development,0
+11319,Zero no Tsukaima F,9,related-1195,development,2
+11577,Steins;Gate Movie: Fuka Ryouiki no Déjà vu,10,related-20,development,0
+11597,Nisemonogatari,10,related-20,development,0
+11617,High School DxD,4,related-11617,development,4
+11741,Fate/Zero 2nd Season,10,related-20,development,0
+11757,Sword Art Online,8,related-20,development,0
+12291,Acchi Kocchi,7,related-12291,development,0
+13601,Psycho-Pass,9,related-13601,development,2
+13759,Sakura-sou no Pet na Kanojo,9,related-13759,development,2
+14513,Magi: The Labyrinth of Magic,10,related-14513,development,1
+14713,Kamisama Hajimemashita,6,related-14713,development,0
+14719,JoJo no Kimyou na Bouken (TV),10,related-665,development,4
+14741,Chuunibyou demo Koi ga Shitai!,8,related-14741,development,1
+14813,Yahari Ore no Seishun Love Comedy wa Machigatteiru.,9,related-14813,development,0
+15037,Corpse Party: Tortured Souls - Bougyakusareta Tamashii no Jukyou,6,related-13807,test,-1
+15583,Date A Live,2,related-15583,development,2
+15689,Nekomonogatari: Kuro,10,related-20,development,0
+16498,Shingeki no Kyojin,9,related-20,development,0
+16592,Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation,8,related-16592,test,-1
+16742,Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!,7,related-16742,test,-1
+17074,Monogatari Series: Second Season,10,related-20,development,0
+18115,Magi: The Kingdom of Magic,9,related-14513,development,1
+18671,Chuunibyou demo Koi ga Shitai! Ren,8,related-14741,development,1
+18679,Kill la Kill,8,related-20,development,0
+19163,Date A Live II,2,related-15583,development,2
+19815,No Game No Life,10,related-19815,development,2
+20031,D-Frag!,8,related-20031,development,4
+20047,Sakura Trick,5,related-20047,test,-1
+20507,Noragami,9,related-20507,test,-1
+20583,Haikyuu!!,8,related-20,development,0
+20787,Black Bullet,7,related-20787,development,4
+20899,JoJo no Kimyou na Bouken Part 3: Stardust Crusaders,10,related-665,development,4
+21855,Hanamonogatari,10,related-20,development,0
+21881,Sword Art Online II,7,related-20,development,0
+22199,Akame ga Kill!,9,related-22199,development,4
+22297,Fate/stay night: Unlimited Blade Works,10,related-20,development,0
+22319,Tokyo Ghoul,8,related-22319,test,-1
+22535,Kiseijuu: Sei no Kakuritsu,9,related-22535,development,2
+22687,Terra Formars,1,related-22687,development,0
+23233,Shinmai Maou no Testament,6,related-23233,development,2
+23755,Nanatsu no Taizai,7,related-20,development,0
+24439,Kekkai Sensen,10,related-24439,test,-1
+24655,Date A Live Movie: Mayuri Judgment,2,related-15583,development,2
+24833,Ansatsu Kyoushitsu,10,related-20,development,0
+25537,Fate/stay night Movie: Heaven's Feel - I. Presage Flower,10,related-20,development,0
+25777,Shingeki no Kyojin Season 2,9,related-20,development,0
+26055,JoJo no Kimyou na Bouken Part 3: Stardust Crusaders - Egypt-hen,10,related-665,development,4
+28025,Tsukimonogatari,10,related-20,development,0
+28121,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,7,related-28121,development,0
+28171,Shokugeki no Souma,9,related-20,development,0
+28223,Death Parade,9,related-20,development,0
+28623,Koutetsujou no Kabaneri,6,related-28623,test,-1
+28701,Fate/stay night: Unlimited Blade Works 2nd Season,10,related-20,development,0
+28825,Himouto! Umaru-chan,9,related-28825,development,3
+28851,Koe no Katachi,7,related-28851,development,0
+29803,Overlord,8,related-29803,test,-1
+30240,Prison School,5,related-30240,development,1
+30276,One Punch Man,9,related-30276,development,2
+30296,Rakudai Kishi no Cavalry,9,related-30296,development,4
+30307,Monster Musume no Iru Nichijou,7,related-30307,development,2
+30484,Steins;Gate 0,10,related-20,development,0
+30503,Noragami Aragoto,9,related-20507,test,-1
+30654,Ansatsu Kyoushitsu 2nd Season,10,related-20,development,0
+30831,Kono Subarashii Sekai ni Shukufuku wo!,10,related-29803,test,-1
+31043,Boku dake ga Inai Machi,9,related-31043,development,0
+31181,Owarimonogatari,10,related-20,development,0
+31240,Re:Zero kara Hajimeru Isekai Seikatsu,10,related-29803,test,-1
+31478,Bungou Stray Dogs,8,related-31478,development,3
+31741,Magi: Sinbad no Bouken (TV),9,related-14513,development,1
+31757,Kizumonogatari II: Nekketsu-hen,10,related-20,development,0
+31758,Kizumonogatari III: Reiketsu-hen,10,related-20,development,0
+31933,JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,10,related-665,development,4
+31964,Boku no Hero Academia,8,related-31964,development,0
+32105,Sousei no Onmyouji,6,related-32105,development,2
+32182,Mob Psycho 100,10,related-32182,test,-1
+32268,Koyomimonogatari,10,related-20,development,0
+32281,Kimi no Na wa.,8,related-16782,development,1
+32282,Shokugeki no Souma: Ni no Sara,9,related-20,development,0
+32867,Bungou Stray Dogs 2nd Season,9,related-31478,development,3
+32901,Eromanga-sensei,2,related-20,development,0
+32937,Kono Subarashii Sekai ni Shukufuku wo! 2,10,related-29803,test,-1
+33049,Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly,10,related-20,development,0
+33050,Fate/stay night Movie: Heaven's Feel - III. Spring Song,10,related-20,development,0
+33206,Kobayashi-san Chi no Maid Dragon,9,related-33206,development,0
+33352,Violet Evergarden,10,related-33352,development,3
+33486,Boku no Hero Academia 2nd Season,8,related-31964,development,0
+33489,Little Witch Academia (TV),9,related-20,development,0
+33506,Ao no Exorcist: Kyoto Fujouou-hen,8,related-9627,development,1
+33674,No Game No Life: Zero,10,related-19815,development,2
+34134,One Punch Man 2nd Season,6,related-30276,development,2
+34240,Shelter (Music),9,related-34240,development,0
+34382,Citrus,3,related-34382,development,3
+34443,Baki,6,related-287,development,0
+34451,Kekkai Sensen & Beyond,10,related-24439,test,-1
+34577,Nanatsu no Taizai: Imashime no Fukkatsu,7,related-20,development,0
+34599,Made in Abyss,10,related-20,development,0
+34618,Blend S,8,related-34618,development,2
+34662,Fate/Apocrypha,8,related-20,development,0
+34881,Aho Girl,5,related-34881,development,3
+34933,Kakegurui,8,related-34933,test,-1
+35062,Mahoutsukai no Yome,8,related-32902,test,-1
+35073,Overlord II,8,related-29803,test,-1
+35120,Devilman: Crybaby,9,related-20,development,0
+35247,Owarimonogatari 2nd Season,10,related-20,development,0
+35376,Himouto! Umaru-chan R,8,related-28825,development,3
+35507,Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e,8,related-30813,development,1
+35760,Shingeki no Kyojin Season 3,9,related-20,development,0
+35788,Shokugeki no Souma: San no Sara,9,related-20,development,0
+35790,Tate no Yuusha no Nariagari,8,related-29803,test,-1
+35838,Shoujo Shuumatsu Ryokou,9,related-35838,development,4
+35849,Darling in the FranXX,7,related-35849,development,1
+36039,A.I.C.O. Incarnation,6,related-36039,development,3
+36286,Re:Zero kara Hajimeru Isekai Seikatsu - Memory Snow,8,related-29803,test,-1
+36456,Boku no Hero Academia 3rd Season,8,related-31964,development,0
+36474,Sword Art Online: Alicization,7,related-20,development,0
+36633,Date A Live III,2,related-15583,development,2
+36862,Made in Abyss Movie 3: Fukaki Tamashii no Reimei,9,related-20,development,0
+36896,Boku no Hero Academia the Movie 1: Futari no Hero,6,related-31964,development,0
+36904,Aggressive Retsuko (ONA),8,related-32977,development,1
+36949,Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen,8,related-20,development,0
+36999,Zoku Owarimonogatari,10,related-20,development,0
+37141,Hataraku Saibou,8,related-35840,development,4
+37347,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II,7,related-28121,development,0
+37349,Goblin Slayer,7,related-37349,development,1
+37430,Tensei shitara Slime Datta Ken,8,related-20,development,0
+37450,Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai,9,related-37450,development,3
+37510,Mob Psycho 100 II,10,related-32182,test,-1
+37517,Happy Sugar Life,4,related-37517,development,3
+37520,Dororo,9,related-20,development,0
+37521,Vinland Saga,9,related-20,development,0
+37675,Overlord III,8,related-29803,test,-1
+37779,Yakusoku no Neverland,8,related-1243,development,1
+37786,Yagate Kimi ni Naru,8,related-37786,development,3
+37976,Zombieland Saga,3,related-20,development,0
+37985,Aggressive Retsuko (ONA) 2nd Season,8,related-32977,development,1
+37991,JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,10,related-665,development,4
+37999,Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,10,related-20,development,0
+38000,Kimetsu no Yaiba,9,related-38000,development,3
+38003,Bungou Stray Dogs 3rd Season,9,related-31478,development,3
+38040,Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu,10,related-29803,test,-1
+38329,Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai,10,related-37450,development,3
+38408,Boku no Hero Academia 4th Season,8,related-31964,development,0
+38414,Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna,8,related-29803,test,-1
+38472,Isekai Quartet,6,related-29803,test,-1
+38524,Shingeki no Kyojin Season 3 Part 2,10,related-20,development,0
+38668,Dorohedoro,10,related-38668,development,4
+38671,Enen no Shouboutai,8,related-20,development,0
+38691,Dr. Stone,8,related-38691,development,3
+38759,Sewayaki Kitsune no Senko-san,6,related-38759,development,0
+39026,Dumbbell Nan Kilo Moteru?,5,related-287,development,0
+39195,Beastars,6,related-39195,development,1
+39247,Kobayashi-san Chi no Maid Dragon S,9,related-33206,development,0
+39534,Jibaku Shounen Hanako-kun,10,related-39534,test,-1
+39535,Mushoku Tensei: Isekai Ittara Honki Dasu,9,related-39535,test,-1
+39551,Tensei shitara Slime Datta Ken 2nd Season,8,related-20,development,0
+39565,Boku no Hero Academia the Movie 2: Heroes:Rising,6,related-31964,development,0
+39575,Somali to Mori no Kamisama,7,related-39575,development,1
+39587,Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season,10,related-29803,test,-1
+39597,Sword Art Online: Alicization - War of Underworld,2,related-20,development,0
+39701,Nanatsu no Taizai: Kamigami no Gekirin,1,related-20,development,0
+39940,Shokugeki no Souma: Shin no Sara,8,related-20,development,0
+39988,Isekai Quartet 2,6,related-29803,test,-1
+40010,Ishuzoku Reviewers,10,related-40010,development,2
+40028,Shingeki no Kyojin: The Final Season,9,related-20,development,0
+40052,Great Pretender,9,related-40052,test,-1
+40060,BNA,9,related-40060,development,0
+40215,Aggressive Retsuko (ONA) 3rd Season,8,related-32977,development,1
+40221,Kami no Tou,8,related-40221,development,1
+40456,Kimetsu no Yaiba Movie: Mugen Ressha-hen,9,related-38000,development,3
+40540,Sword Art Online: Alicization - War of Underworld 2nd Season,2,related-20,development,0
+40591,Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen,10,related-20,development,0
+40708,Monster Musume no Oishasan,3,related-40708,development,3
+40748,Jujutsu Kaisen,10,related-38777,development,3
+40750,Kaifuku Jutsushi no Yarinaoshi,1,related-40750,development,3
+40839,"Kanojo, Okarishimasu",4,related-20,development,0
+40908,Kemono Jihen,8,related-40908,development,4
+40956,Enen no Shouboutai: Ni no Shou,8,related-20,development,0
+41025,Fumetsu no Anata e,9,related-41025,development,2
+41353,The God of High School,6,related-41353,development,1
+41389,Tonikaku Kawaii,7,related-20,development,0
+41457,86,8,related-41457,development,4
+41467,Bleach: Sennen Kessen-hen,10,related-269,development,1
+41487,Tensei shitara Slime Datta Ken 2nd Season Part 2,8,related-20,development,0
+41587,Boku no Hero Academia 5th Season,8,related-31964,development,0
+42203,Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2,10,related-29803,test,-1
+42249,Tokyo Revengers,8,related-42249,development,3
+42310,Cyberpunk: Edgerunners,10,related-42310,test,-1
+42625,Heion Sedai no Idaten-tachi,6,related-42625,development,0
+43608,Kaguya-sama wa Kokurasetai: Ultra Romantic,10,related-20,development,0
+44200,Boku no Hero Academia the Movie 3: World Heroes' Mission,6,related-31964,development,0
+44511,Chainsaw Man,10,related-42076,test,-1
+46569,Jigokuraku,8,related-46569,development,2
+47917,Bocchi the Rock!,10,related-45425,test,-1
+48561,Jujutsu Kaisen 0 Movie,10,related-38777,development,3
+48580,Vanitas no Karte,10,related-48580,test,-1
+48583,Shingeki no Kyojin: The Final Season Part 2,9,related-20,development,0
+48661,JoJo no Kimyou na Bouken Part 6: Stone Ocean,9,related-665,development,4
+49387,Vinland Saga Season 2,10,related-20,development,0
+49458,Kono Subarashii Sekai ni Shukufuku wo! 3,10,related-29803,test,-1
+49918,Boku no Hero Academia 6th Season,8,related-31964,development,0
+49926,Kimetsu no Yaiba: Mugen Ressha-hen,9,related-38000,development,3
+50172,Mob Psycho 100 III,10,related-32182,test,-1
+50205,Arknights: Prelude to Dawn,9,related-20,development,0
+50265,Spy x Family,9,related-50265,development,2
+50330,Bungou Stray Dogs 4th Season,10,related-31478,development,3
+50346,Yofukashi no Uta,9,related-50346,development,4
+50410,One Piece Film: Red,9,related-20,development,0
+50594,Suzume no Tojimari,9,related-50594,development,2
+51009,Jujutsu Kaisen 2nd Season,10,related-38777,development,3
+51096,Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season,8,related-30813,development,1
+51105,NieR:Automata Ver1.1a,10,related-51105,development,1
+51367,JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2,9,related-665,development,4
+51535,Shingeki no Kyojin: The Final Season - Kanketsu-hen,10,related-20,development,0
+51553,Tongari Boushi no Atelier,10,related-51553,development,4
+52198,Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai,10,related-20,development,0
+52299,Ore dake Level Up na Ken,8,related-51321,development,0
+52578,Boku no Kokoro no Yabai Yatsu,8,related-52578,development,4
+52701,Dungeon Meshi,8,related-36577,test,-1
+52991,Sousou no Frieren,10,related-52991,development,3
+53273,JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 3,9,related-665,development,4
+53998,Bleach: Sennen Kessen-hen - Ketsubetsu-tan,10,related-269,development,1
+54492,Kusuriya no Hitorigoto,9,related-54492,development,2
+54857,Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season,9,related-29803,test,-1
+54898,Bungou Stray Dogs 5th Season,10,related-31478,development,3
+55690,Boku no Kokoro no Yabai Yatsu 2nd Season,8,related-52578,development,4
+56784,Bleach: Sennen Kessen-hen - Soukoku-tan,10,related-269,development,1
+57334,Dandadan,10,related-57334,development,1
+57555,Chainsaw Man Movie: Reze-hen,10,related-42076,test,-1
+57658,Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen,10,related-38777,development,3
+57864,Monogatari Series: Off & Monster Season,10,related-20,development,0
+58125,Look Back,9,related-58125,development,4
+58514,Kusuriya no Hitorigoto 2nd Season,9,related-54492,development,2
+58567,Ore dake Level Up na Ken Season 2: Arise from the Shadow,8,related-51321,development,0
+59062,Gachiakuta,9,related-20,development,0
+59978,Sousou no Frieren 2nd Season,9,related-52991,development,3
+60022,One Piece Fan Letter,10,related-20,development,0
+60489,Takopii no Genzai,10,related-60489,development,4
+60543,Dandadan 2nd Season,10,related-57334,development,1
+61316,Re:Zero kara Hajimeru Isekai Seikatsu 4th Season,10,related-29803,test,-1

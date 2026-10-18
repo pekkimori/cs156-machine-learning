@@ -1,0 +1,3 @@
+population,model,n,CV_MAE
+All rated in development groups,Median baseline,253,1.431699875631764
+All rated in development groups,Ridge regression,253,1.4258450815690829
